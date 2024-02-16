@@ -10,7 +10,9 @@ This project focuses on Science Exam Question Answering, utilizing two distinct 
    - **Dataset Link:** [ScienceQA_text_only Dataset](https://huggingface.co/datasets/tasksource/ScienceQA_text_only)
    - **Description:** The "ScienceQA_text_only" dataset is another source of text data for Science Exam Question Answering. It complements the sciq dataset and enhances the variety of questions and answers.
 
-For the model architecture, a Large Language Model named "TinyLlama/TinyLlama-1.1B-Chat-v1.0" is utilized.
-   - **Model Link:** [TinyLlama/TinyLlama-1.1B-Chat-v1.0](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0)
-   - **Description:** The "TinyLlama/TinyLlama-1.1B-Chat-v1.0" model from Hugging Face serves as the core language model for Science Exam Question Answering. It has been pretrained on a vast amount of data and fine-tuned for chat-based applications.
+3. **Used Models:**
+   - **Model Link:** [Llama-2-7b-chat-hf](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf)
+   - **Model Link:** [TinyLlama-1.1B-Chat-v1.0](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0)
+   - **Model Link:** [Mistral-7B-Instruct-v0.2](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2)
+   - **Model Link:** [OpenChat 3.5 1210](https://huggingface.co/openchat/openchat-3.5-1210)
 
