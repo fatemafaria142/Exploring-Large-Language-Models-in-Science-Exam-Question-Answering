@@ -1,4 +1,4 @@
-# Science Exam Question Answering System with TinyLlama
+# Science Exam Question Answering System 
 
 This project focuses on Science Exam Question Answering, utilizing two distinct datasets and a large language model. The datasets used are:
 
